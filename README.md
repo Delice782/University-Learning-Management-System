@@ -31,7 +31,7 @@ The system supports three main user types: **students**, **faculty**, and **admi
 - **Student Class:** 
   - Handles student-specific activities like course enrollment, viewing grades, and managing profiles.
 
-- **Faculty Class:** 
+- **Faculty Class:**
   - Manages faculty-specific tasks such as entering grades, viewing the class roster, and updating course materials.
 
 - **Course Class:** 
