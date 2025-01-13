@@ -1,4 +1,4 @@
-     # University Students' Records Management System
+      # University Students' Records Management System
 
 ## Project Description
 The **University Students’ Records Management System** is a comprehensive software application designed to streamline various university operations, including student enrollment, faculty management, course registration, grades, and transcripts. Developed using **Visual C++** on the **Microsoft Visual Studio** platform, this system incorporates a **Multiple Document Interface (MDI)** with a dynamic toolbar and multiple child forms (SDI) interacting with a **MySQL** backend database.
