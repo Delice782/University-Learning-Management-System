@@ -12,7 +12,7 @@ The system supports three main user types: **students**, **faculty**, and **admi
   
 - **Faculty & Staff Information Management:** 
   - Faculty can access class rosters, input grades, and manage course materials.
-
+ 
 - **Course & Curriculum Management:** 
   - Administrators manage course offerings, curricula, and prerequisites, with support for online materials.
 
