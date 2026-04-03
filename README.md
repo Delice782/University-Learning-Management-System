@@ -8,7 +8,7 @@ The system supports three main user types: **students**, **faculty**, and **admi
 
 ## Key Features:
 - **Student Enrollment & Records Management:** 
-  - Students can enroll in courses, view grades, and manage their personal profiles.
+  - Students can enroll in courses, view grades, and manage their personal profiles. 
   
 - **Faculty & Staff Information Management:** 
   - Faculty can access class rosters, input grades, and manage course materials.
