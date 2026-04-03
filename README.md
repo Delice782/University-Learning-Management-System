@@ -6,7 +6,7 @@ The **University Students’ Records Management System** is a comprehensive soft
 
 The system supports three main user types: **students**, **faculty**, and **administrators**, each with specific roles and access levels. The application ensures secure user authentication and role-based access control, efficient enrollment and grade management, and scalability to handle pe ak registration periods.
 
-## Key Features:
+## Key Features: 
 - **Student Enrollment & Records Management:** 
   - Students can enroll in courses, view grades, and manage their personal profiles. 
   
