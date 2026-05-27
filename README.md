@@ -19,7 +19,7 @@ The system supports three main user types: **students**, **faculty**, and **admi
 - **Grade & Transcript Management:** 
   - Faculty can input grades, students can view their academic records, and administrators can generate and print transcripts.
 
-## Technologies Used:
+## Technologies Used: 
 - **Programming Language:** Visual C++
 - **Development Platform:** Microsoft Visual Studio
 - **Database:** MySQL (Backend Database)
