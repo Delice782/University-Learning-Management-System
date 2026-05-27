@@ -48,7 +48,7 @@ The system supports three main user types: **students**, **faculty**, and **admi
 ## Testing and Validation:
 The system underwent a series of tests, including:
 - **Unit Testing:** For validating individual class functionalities.
-- **System Testing:** Ensuring the system operates as expected across different user types (student, faculty, administrator).
+- **System Testing:** Ensuring the system operates as expected across different user types (student, faculty, administrator). 
 - **Performance Testing:** Ensuring the system can handle up to 10,000 concurrent users during peak registration times.
 
 ## System Requirements:
